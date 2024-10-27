@@ -1,6 +1,8 @@
 # LITA-CAPSTONE-SALES-DATA-PROJECT
+
 ## Project Overview
 This project collects data and analyses the sales performance of a retail store. The goal is to uncover key insights such as, top-selling products, regional performance and monthly sales trend. The analysis also highlights key metrics such as Total Sales by each Product, Average Sales per Product and Total Sales by Region
+
 ## Data Source
 The data used for this sales analysis was collected from the retail's store Point of Sales System(POS)
 - Data Collected:
@@ -12,7 +14,6 @@ The data used for this sales analysis was collected from the retail's store Poin
 6. Quantity
 7. Unit Price
 - Timeframe: Data from 31st of January 2023 to 1st of September 2024
-
 
 ## Project Objective
 The objectives of this project was to determine and analyze the following;
@@ -26,6 +27,11 @@ The objectives of this project was to determine and analyze the following;
 - Number of sales transactions in each region
 - The percentage of total sales contributed by each region
 - The products with no sales in the last quarter
+
+##Data Cleaning and Exploratory Data Analysis (EDA)
+- EDA alongside data cleaning was performed in this project to understand the dataset's structure, identify and handle missing values and address any data quality issues.
+  - A missing colunm was added, which was the Revenue column which was found by multipling the Quantity by the Unit Price in order to know the Total Sales generated.
+  - The data was checked for duplicates by highlighting the whole data in an excel sheet and clicking on the 'Remove Duplicates' in the Data tab interface.
 
 
 

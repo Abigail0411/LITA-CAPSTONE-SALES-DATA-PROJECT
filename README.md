@@ -42,9 +42,13 @@ The objectives of this project was to determine and analyze the following;
 3. Power BI used for converting data from different data sources to interactive dashbords and BI reports.
 
 ## Data Visualization Analysis and Inferences
-
+1. Total Sales by Region using Excel
+## Pivot Table
 ![Screenshot (45)](https://github.com/user-attachments/assets/42d25cd3-ffcd-426e-83df-382c8bc3b8cf)
-
+## Filtered Column Chart for Year 2023
 ![Screenshot (50)](https://github.com/user-attachments/assets/13b63d89-82bc-4b46-9117-74f304b69013)
+## Filtered Column Chart for Year 2023
+![Screenshot (52)](https://github.com/user-attachments/assets/9a0c50ad-df6a-4b7c-83bb-8fad4a5db282)
+
 
 

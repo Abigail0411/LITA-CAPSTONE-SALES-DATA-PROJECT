@@ -41,3 +41,6 @@ The objectives of this project was to determine and analyze the following;
 2. Structured Query Language(SQL) for Quering of Data
 3. Power BI used for converting data from different data sources to interactive dashbords and BI reports.
 
+## Data Visualization Analysis and Inferences
+
+

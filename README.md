@@ -28,10 +28,17 @@ The objectives of this project was to determine and analyze the following;
 - The percentage of total sales contributed by each region
 - The products with no sales in the last quarter
 
-##Data Cleaning and Exploratory Data Analysis (EDA)
+## Data Cleaning and Exploratory Data Analysis (EDA)
 - EDA alongside data cleaning was performed in this project to understand the dataset's structure, identify and handle missing values and address any data quality issues.
   - A missing colunm was added, which was the Revenue column which was found by multipling the Quantity by the Unit Price in order to know the Total Sales generated.
   - The data was checked for duplicates by highlighting the whole data in an excel sheet and clicking on the 'Remove Duplicates' in the Data tab interface.
 
-
+## Data Tools and Methods Used
+1. Microsoft Excel Download Here
+For Data Cleaning
+For Analysis utilizing Pivot Tables to summarize the data for 
+For Visualization- Bar charts were used to visually represent key insights
+SQL - Structured Query Language for Quering of Data
+GitHub for Portfolio Building
+Power BI used for converting data from different data sources to interactive dashbords and BI reports.
 

@@ -34,11 +34,10 @@ The objectives of this project was to determine and analyze the following;
   - The data was checked for duplicates by highlighting the whole data in an excel sheet and clicking on the 'Remove Duplicates' in the Data tab interface.
 
 ## Data Tools and Methods Used
-1. Microsoft Excel Download Here
-For Data Cleaning
-For Analysis utilizing Pivot Tables to summarize the data for 
-For Visualization- Bar charts were used to visually represent key insights
-SQL - Structured Query Language for Quering of Data
-GitHub for Portfolio Building
-Power BI used for converting data from different data sources to interactive dashbords and BI reports.
+1. Microsoft Excel 
+- For Data Cleaning
+- For Analysis utilizing Pivot Tables to summarize and analyze the dataset making it easier to identify insights
+- For Visualization - Bar charts were used to visually represent key insights
+2. Structured Query Language(SQL) for Quering of Data
+3. Power BI used for converting data from different data sources to interactive dashbords and BI reports.
 

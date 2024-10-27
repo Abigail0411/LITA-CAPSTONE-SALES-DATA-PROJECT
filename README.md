@@ -44,6 +44,7 @@ The objectives of this project was to determine and analyze the following;
 ## Data Visualization Analysis and Inferences
 
 ![Screenshot (45)](https://github.com/user-attachments/assets/42d25cd3-ffcd-426e-83df-382c8bc
+
 ![Screenshot (50)](https://github.com/user-attachments/assets/13b63d89-82bc-4b46-9117-74f304b69013)
 3b8cf)
 

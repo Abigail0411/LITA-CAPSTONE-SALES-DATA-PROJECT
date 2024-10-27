@@ -11,7 +11,7 @@ The data used for this sales analysis was collected from the retail's store Poin
 5. Order Date
 6. Quantity
 7. Unit Price
-
+- Timeframe: Data from 31st of January 2023 to 1st of September 2024
 
 
 ## Project Objective
@@ -26,13 +26,6 @@ The objectives of this project was to determine and analyze the following;
 - Number of sales transactions in each region
 - The percentage of total sales contributed by each region
 - The products with no sales in the last quarter
-## Data Collected
-The dataset shows the columns of data that was collected inorder to analyse the Sales Performance of the Store;
-1. Order Id
-2. Custormer Id
-3. Product
-4. Region
-5. Order Date
-6. Quantity
-7. Unit Price
+
+
 

@@ -42,7 +42,7 @@ The objectives of this project was to determine and analyze the following;
 3. Power BI used for converting data from different data sources to interactive dashbords and BI reports.
 
 ## Data Visualization Analysis and Inferences
-1. Total Sales by Product using Excel
+## 1. Total Sales by Product using Excel
 ## Pivot Table
 ![Screenshot (45)](https://github.com/user-attachments/assets/42d25cd3-ffcd-426e-83df-382c8bc3b8cf)
 ## Filtered Column Chart for Year 2023
@@ -50,8 +50,21 @@ The objectives of this project was to determine and analyze the following;
 ## Filtered Column Chart for Year 2024
 ![Screenshot (52)](https://github.com/user-attachments/assets/9a0c50ad-df6a-4b7c-83bb-8fad4a5db282)
 ## Inferences
-2. Total Sales by Region
+
+## 2. Total Sales by Region
+## Pivot Table
 ![Screenshot (44)](https://github.com/user-attachments/assets/081c5230-963f-4b81-80e8-bacc778cda5b)
-3. Monthly Sales
+## Filtered Column Chart for Year 2023
+![Screenshot (63)](https://github.com/user-attachments/assets/f403f6e4-42ad-46c8-85f0-8f32f27689be)
+## Filtered Column Chart for Year 2024
+![Screenshot (64)](https://github.com/user-attachments/assets/713aafe5-48c0-4011-b5e8-38dc685dcf02)
+
+## 3. Monthly Sales
+## Pivot Table
 ![Screenshot (54)](https://github.com/user-attachments/assets/9563ae3f-4685-478a-b883-d3c6b5ce10c3)
+## Filtered Column Chart for Year 2023
+![Screenshot (62)](https://github.com/user-attachments/assets/d903e2ac-4931-4add-886c-655f0202ab5d)
+## Filtered Column Chart for Year 2024
+![Screenshot (61)](https://github.com/user-attachments/assets/281b0d10-a083-4399-93fc-03d94953574a)
+
 

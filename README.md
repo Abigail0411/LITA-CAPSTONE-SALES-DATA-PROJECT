@@ -65,13 +65,15 @@ The objectives of this project was to determine and analyze the following;
 ![Screenshot (75)](https://github.com/user-attachments/assets/a0ff07cc-a6d3-404b-ada5-39e701c0b577)
 
 
-## 3. Monthly Sales
+## 3. Monthly Sales - Microsoft Excel
 ## Pivot Table
 ![Screenshot (54)](https://github.com/user-attachments/assets/9563ae3f-4685-478a-b883-d3c6b5ce10c3)
 ## Filtered Column Chart for Year 2023
 ![Screenshot (62)](https://github.com/user-attachments/assets/d903e2ac-4931-4add-886c-655f0202ab5d)
 ## Filtered Column Chart for Year 2024
 ![Screenshot (61)](https://github.com/user-attachments/assets/281b0d10-a083-4399-93fc-03d94953574a)
+## Monthly Sales for Year 2024 - SQL
+![Screenshot (79)](https://github.com/user-attachments/assets/8769ad09-83df-4849-92d5-e3040854c603)
 
 ## 4. The number of Sales transactions in each region - SQL
 ![Screenshot (76)](https://github.com/user-attachments/assets/c5b69b50-759b-4ab7-a670-2e6ec6ae708f)
@@ -82,9 +84,7 @@ The objectives of this project was to determine and analyze the following;
 ## 6. The Top 5 Customers by their purchase amount - SQL
 ![Screenshot (80)](https://github.com/user-attachments/assets/d1590985-69fe-40ae-abf3-86846da7484c)
 
-## 7. Number of sales transactions in each region - SQL
-
-## 8. The percentage of total sales contributed by each region-SQL
+## 7. The percentage of total sales contributed by each region-SQL
 
 ## 9. The products with no sales in the last quarter
 

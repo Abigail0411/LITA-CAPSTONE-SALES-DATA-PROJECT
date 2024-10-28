@@ -76,10 +76,20 @@ The objectives of this project was to determine and analyze the following;
 ## 4. The number of Sales transactions in each region - SQL
 ![Screenshot (76)](https://github.com/user-attachments/assets/c5b69b50-759b-4ab7-a670-2e6ec6ae708f)
 
+## 5. The Highest-selling product by the total sales - SQL
+![Screenshot (77)](https://github.com/user-attachments/assets/e62943f5-2b77-420f-aebb-f8f5d07b7318)
 
-The number of Sales transactions in each region
-- The Highest-selling product by the total sales
-- The Top 5 Customers by their purchase amount
-- Number of sales transactions in each region
-- The percentage of total sales contributed by each region
-- The products with no sales in the last quarter
+## 6. The Top 5 Customers by their purchase amount - SQL
+![Screenshot (80)](https://github.com/user-attachments/assets/d1590985-69fe-40ae-abf3-86846da7484c)
+
+## 7. Number of sales transactions in each region - SQL
+
+## 8. The percentage of total sales contributed by each region-SQL
+
+## 9. The products with no sales in the last quarter
+
+## 10.
+
+## 11.
+
+

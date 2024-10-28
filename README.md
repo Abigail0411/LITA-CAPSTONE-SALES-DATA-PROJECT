@@ -85,11 +85,10 @@ The objectives of this project was to determine and analyze the following;
 ![Screenshot (80)](https://github.com/user-attachments/assets/d1590985-69fe-40ae-abf3-86846da7484c)
 
 ## 7. The percentage of total sales contributed by each region-SQL
+![Screenshot (81)](https://github.com/user-attachments/assets/42d5ed87-da78-41e9-bd7f-31853dad25d0)
+
 
 ## 9. The products with no sales in the last quarter
-
-## 10.
-
-## 11.
+![Screenshot (83)](https://github.com/user-attachments/assets/b35dca5d-f15d-4a12-af17-21307d026cff)
 
 

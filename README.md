@@ -42,22 +42,28 @@ The objectives of this project was to determine and analyze the following;
 3. Power BI used for converting data from different data sources to interactive dashbords and BI reports.
 
 ## Data Visualization Analysis and Inferences
-## 1. Total Sales by Product using Excel
+## 1. Total Sales by Product - Microsoft Excel
 ## Pivot Table
 ![Screenshot (45)](https://github.com/user-attachments/assets/42d25cd3-ffcd-426e-83df-382c8bc3b8cf)
 ## Filtered Column Chart for Year 2023
 ![Screenshot (50)](https://github.com/user-attachments/assets/13b63d89-82bc-4b46-9117-74f304b69013)
 ## Filtered Column Chart for Year 2024
 ![Screenshot (52)](https://github.com/user-attachments/assets/9a0c50ad-df6a-4b7c-83bb-8fad4a5db282)
+## Total Sales by Product - SQL
+![Screenshot (74)](https://github.com/user-attachments/assets/e8168173-c5a7-40f7-94ed-b21a1a78a4a6)
+
 ## Inferences
 
-## 2. Total Sales by Region
+## 2. Total Sales by Region - Microsoft Excel
 ## Pivot Table
 ![Screenshot (44)](https://github.com/user-attachments/assets/081c5230-963f-4b81-80e8-bacc778cda5b)
 ## Filtered Column Chart for Year 2023
 ![Screenshot (63)](https://github.com/user-attachments/assets/f403f6e4-42ad-46c8-85f0-8f32f27689be)
 ## Filtered Column Chart for Year 2024
 ![Screenshot (64)](https://github.com/user-attachments/assets/713aafe5-48c0-4011-b5e8-38dc685dcf02)
+## Total Sales by Region - SQL
+![Screenshot (75)](https://github.com/user-attachments/assets/a0ff07cc-a6d3-404b-ada5-39e701c0b577)
+
 
 ## 3. Monthly Sales
 ## Pivot Table
@@ -67,4 +73,13 @@ The objectives of this project was to determine and analyze the following;
 ## Filtered Column Chart for Year 2024
 ![Screenshot (61)](https://github.com/user-attachments/assets/281b0d10-a083-4399-93fc-03d94953574a)
 
+## 4. The number of Sales transactions in each region - SQL
+![Screenshot (76)](https://github.com/user-attachments/assets/c5b69b50-759b-4ab7-a670-2e6ec6ae708f)
 
+
+The number of Sales transactions in each region
+- The Highest-selling product by the total sales
+- The Top 5 Customers by their purchase amount
+- Number of sales transactions in each region
+- The percentage of total sales contributed by each region
+- The products with no sales in the last quarter

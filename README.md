@@ -53,6 +53,14 @@ The objectives of this project was to determine and analyze the following;
 ![Screenshot (74)](https://github.com/user-attachments/assets/e8168173-c5a7-40f7-94ed-b21a1a78a4a6)
 
 ## Inferences
+### 1. Overall Revenue Trends;
+There was a decrease of $109,570 in total sales from 2023 to 2024. This indicates a negative trend in revenue generation which was caused by ineffective pricing strategies. 
+### 1. Analyzing Product Performance;
+- The product item Shirt, had the hightest sales in the year 2023 and had a decrease in sales in 2024 due to high in price as compared to the competitors.
+- Product item Shoes increased in sales in 2024 due to the store introducing new shoe styles and collections which attracted both new and returning customers.
+- The column chart for the year 2024 shows a decline in sales for Socks due to bulk purchase patterns, customers often buy socks in bulk and replace them infrequently, which reduces repeat purchase.
+
+
 
 ## 2. Total Sales by Region - Microsoft Excel
 ## Pivot Table

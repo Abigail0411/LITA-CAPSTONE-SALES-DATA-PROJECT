@@ -47,7 +47,9 @@ Some formulars, functions, queries were used during the analysis, which are as f
 - Total Sales = Quantity * Unit price
 - AVERAGEIF(range,criteria,[average_range])
 - SUMIF(range,criteria,[sum_range])
+### sql queries executed
 
+### DAX Functions used
 
 ## Data Visualization Analysis and Inferences
 ## 1. Total Sales by Product - Microsoft Excel

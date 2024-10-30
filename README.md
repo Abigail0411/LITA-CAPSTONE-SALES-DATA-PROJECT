@@ -104,6 +104,7 @@ The number sales orders in all regions appears to be in the same range but with 
 - Cloudy Wears should continue investing in the South region with 44.16% sales rate to increase advertising and improve customer loyalty program to retain and grow the customers.
 - For low-performing regions, Cloudy Wears should conduct market research on the needs and preferences of the customers and increase brand awareness by allocating more resourses towards advertising and promotions,
 ### Conclusion
+By strenthening marketing and operational strategies in the region, the company can aim to boost overall revenue and expand market share.
 
 ## 6. Monthly Sales - Microsoft Excel
 ## Pivot Table

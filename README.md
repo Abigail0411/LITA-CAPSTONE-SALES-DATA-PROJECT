@@ -100,7 +100,11 @@ The number sales orders in all regions appears to be in the same range but with 
 ### 1. Overall Regional performance;
 - South shows the highest percentage of total sales with 44.16% which might indicate strong market penetration or rffective sale strtedies in the region.
 - West region Contributed the least total sales with 14.29%. This suggests potential challenges and may be due to low brand awareness or ineffective marketing.
-  
+### 2. Strategic Intervention;
+- Cloudy Wears should continue investing in the South region with 44.16% sales rate to increase advertising and improve customer loyalty program to retain and grow the customers.
+- For low-performing regions, Cloudy Wears should conduct market research on the needs and preferences of the customers and increase brand awareness by allocating more resourses towards advertising and promotions,
+### Conclusion
+
 ## 6. Monthly Sales - Microsoft Excel
 ## Pivot Table
 ![Screenshot (54)](https://github.com/user-attachments/assets/9563ae3f-4685-478a-b883-d3c6b5ce10c3)

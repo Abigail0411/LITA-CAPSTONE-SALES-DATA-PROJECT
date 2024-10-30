@@ -44,7 +44,8 @@ The objectives of this project was to determine and analyze the following;
 ## Data Visualization Analysis and Inferences
 ## 1. Total Sales by Product - Microsoft Excel
 ## Pivot Table
-![Screenshot (45)](https://github.com/user-attachments/assets/42d25cd3-ffcd-426e-83df-382c8bc3b8cf)
+![Screenshot (134)](https://github.com/user-attachments/assets/11f233e6-d21e-4ac4-85f7-78d3b067a0af)
+
 ## Filtered Column Chart for Year 2023
 ![Screenshot (50)](https://github.com/user-attachments/assets/13b63d89-82bc-4b46-9117-74f304b69013)
 ## Filtered Column Chart for Year 2024
@@ -55,14 +56,15 @@ The objectives of this project was to determine and analyze the following;
 ## Inferences
 ### 1. Overall Revenue Trends;
 There was a decrease of $109,570 in total sales from 2023 to 2024. This indicates a negative trend in revenue generation which was caused by ineffective pricing strategies. 
-### 1. Analyzing Product Performance;
+### 2. Analyzing Product Performance;
 - Shirt: Had the hightest sales in the year 2023 and had a decrease in sales in 2024 due to high in price as compared to the competitors.
 - Shoes: Increased in sales in 2024 due to the store introducing new shoe styles and collections which attracted both new and returning customers.
 - Socks: The column chart for the year 2024 shows a decline in sales due to bulk purchase patterns, customers often buy socks in bulk and replace them infrequently, which reduces repeat purchase.
 - Gloves: Remains relatively stable, indicating that it continues to be a strong market, although it doesn't show significant growth.
 - Hats: Shows a huge incerease in sales in 2024, suggesting improved performance or market conditions.
 - Jacket: Shows a huge decrease in sales in 2024, with a difference of $120,950 due to the increase in price of the product.
-
+### Conclusion
+The Total Sales data from 2023 to 2024 shows an unstable growth performance and instability in sales. The store should take closer examination of market conditions and customer behavior as well as re-evaluating their pricing strategies.
 
 ## 2. Total Sales by Region - Microsoft Excel
 ## Pivot Table

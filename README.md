@@ -53,8 +53,8 @@ The objectives of this project was to determine and analyze the following;
 ## Total Sales by Product - SQL
 ![Screenshot (74)](https://github.com/user-attachments/assets/e8168173-c5a7-40f7-94ed-b21a1a78a4a6)
 
-## Inferences
-### 1. Overall Revenue Trends;
+## Inferences:
+### 1. Overall Total Sales Trends;
 There was a decrease of $109,570 in total sales from 2023 to 2024. This indicates a negative trend in revenue generation which was caused by ineffective pricing strategies. 
 ### 2. Analyzing Product Performance;
 - Shirt: Had the hightest sales in the year 2023 and had a decrease in sales in 2024 due to high in price as compared to the competitors.
@@ -77,7 +77,10 @@ The Total Sales data from 2023 to 2024 shows an unstable growth performance and 
 ## Total Sales by Region - SQL
 ![Screenshot (75)](https://github.com/user-attachments/assets/a0ff07cc-a6d3-404b-ada5-39e701c0b577)
 
-
+## Inferences:
+### 1. Regional Sales Performance Overview;
+Total Sales across all regions have decreased this year compared to last year, wwith the exception of West region, which recorded total sales of $213,740.
+### 
 ## 3. Monthly Sales - Microsoft Excel
 ## Pivot Table
 ![Screenshot (54)](https://github.com/user-attachments/assets/9563ae3f-4685-478a-b883-d3c6b5ce10c3)

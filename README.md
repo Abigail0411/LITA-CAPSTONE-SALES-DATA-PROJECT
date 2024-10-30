@@ -133,6 +133,11 @@ Shoes represent a high-demand category with growth potential. To amplify sales, 
 
 ## 6. The Top 5 Customers by their purchase amount - SQL
 ![Screenshot (80)](https://github.com/user-attachments/assets/d1590985-69fe-40ae-abf3-86846da7484c)
+### Inferences:
+### 1. Overall Custormers Performance;
+These 5 Customers appear to be frequent customers which may reflect brand loyalty.
+### 2.Strategy Intervention;
+Cloudy wears should create exclusive rewards for each of the top customers e.g offering early access to new products, special discounts and also engage the customers through personalised emails or messages highlighting new arrivals.
 
 ## 7. The percentage of total sales contributed by each region-SQL
 ![Screenshot (81)](https://github.com/user-attachments/assets/42d5ed87-da78-41e9-bd7f-31853dad25d0)

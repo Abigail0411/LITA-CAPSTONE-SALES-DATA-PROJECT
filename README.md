@@ -98,7 +98,9 @@ The number sales orders in all regions appears to be in the same range but with 
 ![Screenshot (81)](https://github.com/user-attachments/assets/42d5ed87-da78-41e9-bd7f-31853dad25d0)
 ### Inferences:
 ### 1. Overall Regional performance;
-- South shows the highest
+- South shows the highest percentage of total sales with 44.16% which might indicate strong market penetration or rffective sale strtedies in the region.
+- West region Contributed the least total sales with 14.29%. This suggests potential challenges and may be due to low brand awareness or ineffective marketing.
+  
 ## 6. Monthly Sales - Microsoft Excel
 ## Pivot Table
 ![Screenshot (54)](https://github.com/user-attachments/assets/9563ae3f-4685-478a-b883-d3c6b5ce10c3)

@@ -78,9 +78,9 @@ The Total Sales data from 2023 to 2024 shows an unstable growth performance and 
 ![Screenshot (75)](https://github.com/user-attachments/assets/a0ff07cc-a6d3-404b-ada5-39e701c0b577)
 
 ## Inferences:
-### 1. Regional Sales Performance Overview;
+### 1. Overall Overview on Regional Sales Performance;
 Total Sales across all regions have decreased this year compared to last year, wwith the exception of West region, which recorded total sales of $213,740.
-### 
+### 2. Sales Distribution by Region;
 ## 3. Monthly Sales - Microsoft Excel
 ## Pivot Table
 ![Screenshot (54)](https://github.com/user-attachments/assets/9563ae3f-4685-478a-b883-d3c6b5ce10c3)

@@ -46,7 +46,7 @@ Some formulars, functions, queries were used during the analysis, which are as f
 ### Excel formulars used
 - Total Sales = Quantity * Unit price
 - AVERAGEIF(range,criteria,[average_range])
-- 
+- SUMIF(range,criteria,[sum_range])
 
 
 ## Data Visualization Analysis and Inferences

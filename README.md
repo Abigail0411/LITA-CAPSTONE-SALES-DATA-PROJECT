@@ -94,8 +94,12 @@ The Column bar charts illustrate a clear drop in revenue for 2024 compared to 20
 ### 1. Overall Regional performance;
 The number sales orders in all regions appears to be in the same range but with East region leading.
 
-
-## 3. Monthly Sales - Microsoft Excel
+## 5. The percentage of total sales contributed by each region-SQL
+![Screenshot (81)](https://github.com/user-attachments/assets/42d5ed87-da78-41e9-bd7f-31853dad25d0)
+### Inferences:
+### 1. Overall Regional performance;
+- South shows the highest
+## 6. Monthly Sales - Microsoft Excel
 ## Pivot Table
 ![Screenshot (54)](https://github.com/user-attachments/assets/9563ae3f-4685-478a-b883-d3c6b5ce10c3)
 ## Filtered Column Chart for Year 2023
@@ -120,7 +124,7 @@ The sales fluctuate monthly in both year, which indicates unstable growth perfor
 - October, November and December: There was a drastic decreases in sales in these months which might have been caused by increase in competition and discounting in other stores.
 
 
-## 5. The Highest-selling product by the total sales - SQL
+## 7. The Highest-selling product by the total sales - SQL
 ![Screenshot (77)](https://github.com/user-attachments/assets/e62943f5-2b77-420f-aebb-f8f5d07b7318)
 ### Inferences:
 ### 1. Performance of the Product;
@@ -131,16 +135,15 @@ The sales fluctuate monthly in both year, which indicates unstable growth perfor
 ### Conclusion
 Shoes represent a high-demand category with growth potential. To amplify sales, a mix of targeted marketing and inventory management should be implemented . By doing so Cloudy Wears can maximize profitability from its top-selling product line.
 
-## 6. The Top 5 Customers by their purchase amount - SQL
+## 8. The Top 5 Customers by their purchase amount - SQL
 ![Screenshot (80)](https://github.com/user-attachments/assets/d1590985-69fe-40ae-abf3-86846da7484c)
 ### Inferences:
 ### 1. Overall Custormers Performance;
 These 5 Customers appear to be frequent customers which may reflect brand loyalty.
 ### 2.Strategy Intervention;
 Cloudy wears should create exclusive rewards for each of the top customers e.g offering early access to new products, special discounts and also engage the customers through personalised emails or messages highlighting new arrivals.
-
-## 7. The percentage of total sales contributed by each region-SQL
-![Screenshot (81)](https://github.com/user-attachments/assets/42d5ed87-da78-41e9-bd7f-31853dad25d0)
+### Conclusion
+Understanding the top 5 customers by purchase amount is crucial for building loyalty and monitoring thrir life time value. By implementing targeted rewards and dedicated communication,these customers can be developed into brand ambassadors, contributing to both revenue and long-term btand loyalty.
 
 
 ## 9. The products with no sales in the last quarter

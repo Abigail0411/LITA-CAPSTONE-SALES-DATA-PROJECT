@@ -97,6 +97,22 @@ The Column bar charts illustrate a clear drop in revenue for 2024 compared to 20
 ![Screenshot (61)](https://github.com/user-attachments/assets/281b0d10-a083-4399-93fc-03d94953574a)
 ## Monthly Sales for Year 2024 - SQL
 ![Screenshot (79)](https://github.com/user-attachments/assets/8769ad09-83df-4849-92d5-e3040854c603)
+### Inferences:
+### 1. Oveview of the Monthly Sales Performance;
+The sales fluctuate monthly in both year, which indicates unstable growth performance in the store.
+### 2. Sales Performance in each month in each year;
+- Jan
+- February
+- March
+- April
+- May
+- June
+- July
+- August
+- September
+- October
+- November
+- December
 
 ## 4. The number of Sales transactions in each region - SQL
 ![Screenshot (76)](https://github.com/user-attachments/assets/c5b69b50-759b-4ab7-a670-2e6ec6ae708f)

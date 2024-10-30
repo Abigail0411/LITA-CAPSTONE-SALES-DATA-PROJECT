@@ -108,9 +108,9 @@ The sales fluctuate monthly in both year, which indicates unstable growth perfor
 - May: Sales were low in both years and it decreased further in 2024.
 - June: Sales were low in both years and it decreased further in 2024.
 - July: High sales in July 2023 might have been due to a one-time event , such as a mojor promotion or special sale that was repeated this year.
-- August: Increase in sales in 2024 might have being due to improved marketing strategies.
-- September:
-- October,November andDecember
+- August: Increase in sales in 2024 might have been due to improved marketing strategies.
+- September: Salesin this month in 2023 was more than the sales in Aug 2023 was was still in the low range.
+- October, November and December: There was a drastic decreases in sales in these months which might have been caused by increase in competition and discounting in other stores.
 
 ## 4. The number of Sales transactions in each region - SQL
 ![Screenshot (76)](https://github.com/user-attachments/assets/c5b69b50-759b-4ab7-a670-2e6ec6ae708f)

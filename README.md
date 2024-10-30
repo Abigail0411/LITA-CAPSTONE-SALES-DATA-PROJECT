@@ -68,7 +68,8 @@ The Total Sales data from 2023 to 2024 shows an unstable growth performance and 
 
 ## 2. Total Sales by Region - Microsoft Excel
 ## Pivot Table
-![Screenshot (44)](https://github.com/user-attachments/assets/081c5230-963f-4b81-80e8-bacc778cda5b)
+![Screenshot (135)](https://github.com/user-attachments/assets/c9b90668-c770-46ac-984a-ea1804b05a89)
+
 ## Filtered Column Chart for Year 2023
 ![Screenshot (63)](https://github.com/user-attachments/assets/f403f6e4-42ad-46c8-85f0-8f32f27689be)
 ## Filtered Column Chart for Year 2024

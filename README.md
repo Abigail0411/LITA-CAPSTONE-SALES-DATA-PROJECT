@@ -88,6 +88,13 @@ The total sales in the South and East region have decreased this year compared t
 The Column bar charts illustrate a clear drop in revenue for 2024 compared to 2023. This might indicate that overall market conditions may be affecting all the regions.
 ### 4. Strategic Intervention
 
+## 4. The number of Sales transactions in each region - SQL
+![Screenshot (76)](https://github.com/user-attachments/assets/c5b69b50-759b-4ab7-a670-2e6ec6ae708f)
+### Inferences:
+### 1. Overall Regional performance;
+The number sales orders in all regions appears to be in the same range but with East region leading.
+
+
 ## 3. Monthly Sales - Microsoft Excel
 ## Pivot Table
 ![Screenshot (54)](https://github.com/user-attachments/assets/9563ae3f-4685-478a-b883-d3c6b5ce10c3)
@@ -112,11 +119,17 @@ The sales fluctuate monthly in both year, which indicates unstable growth perfor
 - September: Salesin this month in 2023 was more than the sales in Aug 2023 was was still in the low range.
 - October, November and December: There was a drastic decreases in sales in these months which might have been caused by increase in competition and discounting in other stores.
 
-## 4. The number of Sales transactions in each region - SQL
-![Screenshot (76)](https://github.com/user-attachments/assets/c5b69b50-759b-4ab7-a670-2e6ec6ae708f)
 
 ## 5. The Highest-selling product by the total sales - SQL
 ![Screenshot (77)](https://github.com/user-attachments/assets/e62943f5-2b77-420f-aebb-f8f5d07b7318)
+### Inferences:
+### 1. Performance of the Product;
+- As seen by the return of the SQL query, shoes generated the highest sales among all the products. This may indicate that there is a strong demand for foot wear.
+### 2. Intervention Strategies;
+- Cloudy wears should ensure that they keep popular shoe styles, sizes and colors in stock by closely monitoring inventory levels and reordering based on sales forecasts.
+- They should also leverage pricing strategies that alignwith seasonal trends and offering discounts during high purchase periods.
+### Conclusion
+Shoes represent a high-demand category with growth potential. To amplify sales, a mix of targeted marketing and inventory management should be implemented . By doing so Cloudy Wears can maximize profitability from its top-selling product line.
 
 ## 6. The Top 5 Customers by their purchase amount - SQL
 ![Screenshot (80)](https://github.com/user-attachments/assets/d1590985-69fe-40ae-abf3-86846da7484c)

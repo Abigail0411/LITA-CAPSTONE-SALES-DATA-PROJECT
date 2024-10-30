@@ -1,7 +1,7 @@
 # LITA-CAPSTONE-SALES-DATA-PROJECT
 
 ## Project Overview
-This project collects data and analyses the sales performance of a retail store. The goal is to uncover key insights such as, top-selling products, regional performance and monthly sales trend. The analysis also highlights key metrics such as Total Sales by each Product, Average Sales per Product and Total Sales by Region
+This project collects data and analyses the sales performance of a retail store, Cloudy Wears. The goal is to uncover key insights such as, top-selling products, regional performance and monthly sales trend and come up with data-driven decisions to improve the business. The analysis also highlights key metrics such as Total Sales by each Product, Average Sales per Product and Total Sales by Region
 
 ## Data Source
 The data used for this sales analysis was collected from the retail's store Point of Sales System(POS)

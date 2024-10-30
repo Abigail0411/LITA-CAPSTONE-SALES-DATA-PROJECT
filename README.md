@@ -86,6 +86,8 @@ The total sales in the South and East region have decreased this year compared t
 - North and West: Both regions show high revenue figures which indicates improved and effective implemented price strategies. 
 ### 3. Sales Distribution by Region;
 The Column bar charts illustrate a clear drop in revenue for 2024 compared to 2023. This might indicate that overall market conditions may be affecting all the regions.
+### 4. Strategic Intervention
+
 ## 3. Monthly Sales - Microsoft Excel
 ## Pivot Table
 ![Screenshot (54)](https://github.com/user-attachments/assets/9563ae3f-4685-478a-b883-d3c6b5ce10c3)

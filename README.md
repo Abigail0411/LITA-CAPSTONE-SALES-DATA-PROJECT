@@ -101,8 +101,8 @@ The Column bar charts illustrate a clear drop in revenue for 2024 compared to 20
 ### 1. Oveview of the Monthly Sales Performance;
 The sales fluctuate monthly in both year, which indicates unstable growth performance in the store.
 ### 2. Sales Performance in each month in each year;
-- Jan
-- February
+- January: Sales increased in 2024 as compared to last year. This may indicate Cloud Wears effective implemented pricing strtegies.
+- February: February appears to have the highest sales in both years as shown on the column bar charts. This suggest that the store normally launch promotions to boost sales after the quiet less eventful January and also looking at the fact that valentines day is in this month which drives customers to buy gifts to celebrate their loved ones.
 - March
 - April
 - May

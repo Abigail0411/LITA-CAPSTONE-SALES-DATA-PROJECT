@@ -105,9 +105,9 @@ The sales fluctuate monthly in both year, which indicates unstable growth perfor
 - February: February appears to have the highest sales in both years as shown on the column bar charts. This suggest that the store normally launch promotions to boost sales after the quiet less eventful January and also looking at the fact that valentines day is in this month which drives customers to buy gifts to celebrate their loved ones.
 - March: The sales in this month in both years are low and the sales decreased in 2024 as compared to last year. This may indicate lower inveswtment in marketing or fewer promotions in March.
 - April: The sales in April slightly increased which suggests improved marketing strategies as well as well timed promotions timing around holiday season (Easter).
-- May
-- June
-- July
+- May: Sales were low in both years and it decreased further in 2024.
+- June: Sales were low in both years and it decreased further in 2024.
+- July: High sale sin July
 - August
 - September
 - October

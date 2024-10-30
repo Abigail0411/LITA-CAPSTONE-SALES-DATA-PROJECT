@@ -43,6 +43,10 @@ The objectives of this project was to determine and analyze the following;
 
 ## Data Analysis
 Some formulars, functions, queries were used during the analysis, which are as follows;
+### Excel formulars used
+- Total Sales = Quantity * Unit price
+- AVERAGEIF(range,criteria,[average_range])
+- 
 
 
 ## Data Visualization Analysis and Inferences

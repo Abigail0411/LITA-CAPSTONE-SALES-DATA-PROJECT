@@ -49,6 +49,72 @@ Some formulars, functions, queries were used during the analysis, which are as f
 - SUMIF(range,criteria,[sum_range])
 ### sql queries executed
 
+```SQL
+Select [Product], sum(Revenue) as TotalSales 
+From Sales_Data 
+Group by [Product]
+order by 2 Desc
+```
+
+```SQL
+Select Region, sum(Revenue) as TotalSales 
+From Sales_Data 
+Group by Region
+order by 2 Desc
+```
+
+```SQL
+Select Region, Count(OrderID) as SalesTransaction
+From Sales_Data
+Group by Region
+order by 2 Desc
+```
+
+```SQL
+Select top 1 [Product], Sum(Quantity*UnitPrice) as Total_Sales 
+From Sales_Data
+Group by [Product]
+```
+
+```SQL
+Select [Product], sum(Quantity*UnitPrice) as TotalRevenue 
+From Sales_Data
+Group by [Product]
+Order by 2 Desc
+```
+
+```SQL
+Select Month(OrderDate) as Sales_Month, Sum(Revenue) as Monthly_Sales
+From Sales_Data
+Where Year(OrderDate) = Year(Getdate())
+Group by Month(OrderDate)
+Order by 2 Desc
+```
+
+```SQL
+Select Top 5 Customer_id, Sum(Revenue) as TotaL_Purchase_Amount
+From Sales_Data
+Group by Customer_id
+Order by 2 Desc
+```
+
+```SQL
+Select Region, TotalSales,
+Format (TotalSales *100 / Sum(TotalSales)Over (),'0.00') + '%' As Percentage_Of_TotalSales 
+From SalesData
+```
+
+```SQL
+Select Distinct [Product]
+From Sales_Data
+Where[Product] NOT IN(
+Select [Product]
+From Sales_Data
+Where OrderDate >=
+DATEADD(quarter, 4, GETDATE()) 
+And Orderdate < GETDATE())
+```
+
 ### DAX Functions used
 
 ## Data Visualization Analysis and Inferences

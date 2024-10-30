@@ -56,10 +56,12 @@ The objectives of this project was to determine and analyze the following;
 ### 1. Overall Revenue Trends;
 There was a decrease of $109,570 in total sales from 2023 to 2024. This indicates a negative trend in revenue generation which was caused by ineffective pricing strategies. 
 ### 1. Analyzing Product Performance;
-- The product item Shirt, had the hightest sales in the year 2023 and had a decrease in sales in 2024 due to high in price as compared to the competitors.
-- Product item Shoes increased in sales in 2024 due to the store introducing new shoe styles and collections which attracted both new and returning customers.
-- The column chart for the year 2024 shows a decline in sales for Socks due to bulk purchase patterns, customers often buy socks in bulk and replace them infrequently, which reduces repeat purchase.
-
+- Shirt: Had the hightest sales in the year 2023 and had a decrease in sales in 2024 due to high in price as compared to the competitors.
+- Shoes: Increased in sales in 2024 due to the store introducing new shoe styles and collections which attracted both new and returning customers.
+- Socks: The column chart for the year 2024 shows a decline in sales due to bulk purchase patterns, customers often buy socks in bulk and replace them infrequently, which reduces repeat purchase.
+- Gloves: Remains relatively stable, indicating that it continues to be a strong market, although it doesn't show significant growth.
+- Hats: Shows a huge incerease in sales in 2024, suggesting improved performance or market conditions.
+- Jacket: Shows a huge decrease in sales in 2024, with a difference of $120,950 due to the increase in price of the product.
 
 
 ## 2. Total Sales by Region - Microsoft Excel

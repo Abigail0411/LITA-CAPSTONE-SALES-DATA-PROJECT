@@ -80,7 +80,18 @@ The Total Sales data from 2023 to 2024 shows an unstable growth performance and 
 ## Inferences:
 ### 1. Overall Overview on Regional Sales Performance;
 Total Sales across all regions have decreased this year compared to last year, wwith the exception of West region, which recorded total sales of $213,740.
-### 2. Sales Distribution by Region;
+### 2. Sales Performance by each region in each year;
+- South: The South region had the highest revenue in both 2023 and 2024 but shows a drop in sales in 2024. The drop in sales may be due to increased competition in the market.
+- East: Had the 2nd hightes revenue in 2023 but Shows a huge decrease in revenue in 2024. The decline in sales
+- North
+- West
+North East: The North East region had the highest revenue in 2014 but shows a significant drop in 2015. This decline may indicate market saturation or increased competition.
+South West: This region also shows a decrease in revenue, although it remains one of the higher-performing areas.
+South South: The revenue for this region appears to have decreased slightly, indicating a potential area of concern.
+South East: Similar to the South South, this region also shows a decline in revenue, which could suggest challenges in maintaining sales.
+North West and North Central: Both regions show lower revenue figures, with North Central consistently trailing behind other regions.
+### 3. Sales Distribution by Region;
+The bar charts illustrate a clear drop in revenue for 2015 compared to 2014, indicating that while the North East led in 2014, the gap between regions has narrowed, suggesting that overall market conditions may be affecting all regions similarly.
 ## 3. Monthly Sales - Microsoft Excel
 ## Pivot Table
 ![Screenshot (54)](https://github.com/user-attachments/assets/9563ae3f-4685-478a-b883-d3c6b5ce10c3)

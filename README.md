@@ -172,9 +172,13 @@ The Column bar charts illustrate a clear drop in revenue for 2024 compared to 20
 
 ## 4. The number of Sales transactions in each region - SQL
 ![Screenshot (76)](https://github.com/user-attachments/assets/c5b69b50-759b-4ab7-a670-2e6ec6ae708f)
-### Inferences:
-### 1. Overall Regional performance;
-The number sales orders in all regions appears to be in the same range but with East region leading.
+### i. Inferences
+- #### The number of sales orders in all regions appears to be in the same range but with East region leading with 2,483 number of orders indicating that Shade & Co. has a strong market prence than in the other regions. It may also indicate that the customers in the East region have greater spending capacity.
+### ii. Strategic Recomendations
+- To boost sales transactions in all the regions, Shade & Co can consider implementing the following strategies;
+  * They can design promotions such as discounts on products based on the purchasing power of each region's customers.
+  * They canalso offer preffered payment methods basede on regional preferences, e.g a customer paying for the product bought in installments.
+  * 
 
 ## 5. The percentage of total sales contributed by each region-SQL
 ![Screenshot (81)](https://github.com/user-attachments/assets/42d5ed87-da78-41e9-bd7f-31853dad25d0)

@@ -209,20 +209,21 @@ By strenthening marketing and operational strategies in the region, the company 
 ![Screenshot (61)](https://github.com/user-attachments/assets/281b0d10-a083-4399-93fc-03d94953574a)
 ## Monthly Sales for Year 2024 - SQL
 ![Screenshot (79)](https://github.com/user-attachments/assets/8769ad09-83df-4849-92d5-e3040854c603)
-### Inferences:
-### 1. Oveview of the Monthly Sales Performance;
+### i. Inferences:
+- ### Oveview of the Monthly Sales Performance;
 The sales fluctuate monthly in both year, which indicates unstable growth performance in the store.
-### 2. Sales Performance in each month in each year;
-- January: Sales increased in 2024 as compared to last year. This may indicate Cloud Wears effective implemented pricing strtegies.
-- February: February appears to have the highest sales in both years as shown on the column bar charts. This suggest that the store normally launch promotions to boost sales after the quiet less eventful January and also looking at the fact that valentines day is in this month which drives customers to buy gifts to celebrate their loved ones.
-- March: The sales in this month in both years are low and the sales decreased in 2024 as compared to last year. This may indicate lower inveswtment in marketing or fewer promotions in March.
-- April: The sales in April slightly increased which may be due to improved marketing strategies as well as well timed promotions timing around holiday season (Easter).
-- May: Sales were low in both years and it decreased further in 2024.
-- June: Sales were low in both years and it decreased further in 2024.
-- July: High sales in July 2023 might have been due to a one-time event , such as a mojor promotion or special sale that was repeated this year.
-- August: Increase in sales in 2024 might have been due to improved marketing strategies.
-- September: Salesin this month in 2023 was more than the sales in Aug 2023 was was still in the low range.
-- October, November and December: There was a drastic decreases in sales in these months which might have been caused by increase in competition and discounting in other stores.
+- ### Sales Performance in each month in each year;
+  * January: Sales increased in 2024 as compared to last year. This may indicate Cloud Wears effective implemented pricing strtegies.
+  * February: February appears to have the highest sales in both years as shown on the column bar charts. This suggest that the store normally launch promotions to boost sales after the quiet less 
+    eventful January and also looking at the fact that valentines day is in this month which drives customers to buy gifts to celebrate their loved ones.
+  * March: The sales in this month in both years are low and the sales decreased in 2024 as compared to last year. This may indicate lower inveswtment in marketing or fewer promotions in March.
+  * April: The sales in April slightly increased which may be due to improved marketing strategies as well as well timed promotions timing around holiday season (Easter).
+  * May: Sales were low in both years and it decreased further in 2024.
+  * June: Sales were low in both years and it decreased further in 2024.
+  * July: High sales in July 2023 might have been due to a one-time event , such as a mojor promotion or special sale that was repeated this year.
+  * August: Increase in sales in 2024 might have been due to improved marketing strategies.
+  * September: Salesin this month in 2023 was more than the sales in Aug 2023 was was still in the low range.
+  * October, November and December: There was a drastic decreases in sales in these months which might have been caused by increase in competition and discounting in other stores.
 
 
 ## 7. The Highest-selling product by the total sales - SQL

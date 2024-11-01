@@ -165,10 +165,15 @@ The total sales in the South and East region have decreased this year compared t
 - #### Sales Performance by each region in each year;
   * South: The South region had the highest revenue in both 2023 and 2024 but shows a slight drop in sales in 2024. The drop in sales may be due to increased competition in the market.
   * East: Had the 2nd hightes revenue in 2023 but Shows a huge decrease in revenue in 2024. The decline in sales may indicate a rising competitor in the market andthe prices of the products were seen to be high.
-  * North and West: Both regions show high revenue figures which indicates improved and effective implemented price strategies. 
+  * North and West: Both regions shows that revenue increases in 2024 which indicates improved and effective implemented price strategies. 
 - #### Sales Distribution by Region;
 The Column bar charts illustrate a clear drop in revenue for 2024 compared to 2023. This might indicate that overall market conditions may be affecting all the regions.
-### 4. Strategic Recommendations
+### ii. Strategic Recommendations
+- Shade & Co should create campaigns that coonect and align with each regional interests and customer preferences which will boost the brand recognition and connection.
+- They can use region specific promotions to attractnew customers and retain existing ones.
+
+### iv Conclusion
+- Regional sales highlights opportunities for growth in underperformimg regions and importance of maintaing strong strategies in high-performing regions. By creating campai
 
 ## 4. The number of Sales transactions in each region - SQL
 ![Screenshot (76)](https://github.com/user-attachments/assets/c5b69b50-759b-4ab7-a670-2e6ec6ae708f)

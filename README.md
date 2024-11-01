@@ -178,7 +178,10 @@ The Column bar charts illustrate a clear drop in revenue for 2024 compared to 20
 - To boost sales transactions in all the regions, Shade & Co can consider implementing the following strategies;
   * They can design promotions such as discounts on products based on the purchasing power of each region's customers.
   * They canalso offer preffered payment methods basede on regional preferences, e.g a customer paying for the product bought in installments.
-  * 
+  * They can also make their prices more competitive.
+ ### iv. Conclusion
+ A focus on the sales transactions by each region will provide Shade & Co. with insights that would help boost their sales. By implementing the strategve recomendations above, Shade & Co. can improve customer satisfaction and increase the frequency of transaction as well as increasing the overall revenue.
+ 
 
 ## 5. The percentage of total sales contributed by each region-SQL
 ![Screenshot (81)](https://github.com/user-attachments/assets/42d5ed87-da78-41e9-bd7f-31853dad25d0)

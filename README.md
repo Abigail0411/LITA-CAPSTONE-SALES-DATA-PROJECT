@@ -135,11 +135,11 @@ And Orderdate < GETDATE())
 ## Total Sales by Product - SQL
 ![Screenshot (74)](https://github.com/user-attachments/assets/e8168173-c5a7-40f7-94ed-b21a1a78a4a6)
 
-## Inferences:
-### 1. Overall Total Sales Trends;
-There was a decrease of $109,570 in total sales from 2023 to 2024. This indicates a negative trend in revenue generation which was caused by ineffective pricing strategies. 
-### 2. Analyzing Product Performance;
-- Shirt: Had the hightest sales in the year 2023 and had a decrease in sales in 2024 due to high in price as compared to the competitors.
+## i. Inferences:
+- ### Overall Total Sales Trends;
+  * There was a decrease of $109,570 in total sales from 2023 to 2024. This indicates a negative trend in revenue generation which was caused by ineffective pricing strategies. 
+- ### Analyzing Product Performance;
+ * Shirt: Had the hightest sales in the year 2023 and had a decrease in sales in 2024 due to high in price as compared to the competitors.
 - Shoes: Increased in sales in 2024 due to the store introducing new shoe styles and collections which attracted both new and returning customers.
 - Socks: The column chart for the year 2024 shows a decline in sales due to bulk purchase patterns, customers often buy socks in bulk and replace them infrequently, which reduces repeat purchase.
 - Gloves: Remains relatively stable, indicating that it continues to be a strong market, although it doesn't show significant growth.

@@ -238,4 +238,17 @@ Understanding the top 5 customers by purchase amount is crucial for building loy
 ## 9. The products with no sales in the last quarter
 ![Screenshot (83)](https://github.com/user-attachments/assets/b35dca5d-f15d-4a12-af17-21307d026cff)
 
+![Screenshot (115)](https://github.com/user-attachments/assets/e72c3b41-6114-4c76-a17a-e26af17944eb)
+![Screenshot (117)](https://github.com/user-attachments/assets/12b94ffb-1084-415e-b228-fb4990b8f275)
+![Screenshot (118)](https://github.com/user-attachments/assets/0679a43a-c6e9-48e4-aeb9-5943c44aa918)
+![Screenshot (119)](https://github.com/user-attachments/assets/c55927c8-a211-4168-8421-2f12b8ad2bf7)
+![Screenshot (120)](https://github.com/user-attachments/assets/0d54225f-9f20-4854-b665-882514e0ddf8)
+![Screenshot (121)](https://github.com/user-attachments/assets/8a945350-6773-4913-ac29-76a3dbcd49da)
+![Screenshot (123)](https://github.com/user-attachments/assets/8d3d837d-e785-48ab-9646-16cd0e9406b2)
+
+
+
+
+
+
 

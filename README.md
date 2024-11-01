@@ -170,10 +170,10 @@ The total sales in the South and East region have decreased this year compared t
 The Column bar charts illustrate a clear drop in revenue for 2024 compared to 2023. This might indicate that overall market conditions may be affecting all the regions.
 ### ii. Strategic Recommendations
 - Shade & Co should create campaigns that coonect and align with each regional interests and customer preferences which will boost the brand recognition and connection.
-- They can use region specific promotions to attractnew customers and retain existing ones.
+- They can use region specific promotions to attract new customers and retain existing ones.
 
 ### iv Conclusion
-- Regional sales highlights opportunities for growth in underperformimg regions and importance of maintaing strong strategies in high-performing regions. By creating campai
+- Regional sales highlights opportunities for growth in underperformimg regions and importance of maintaing strong strategies in high-performing regions. By creating promotion campaings, the store can increase its sales.
 
 ## 4. The number of Sales transactions in each region - SQL
 ![Screenshot (76)](https://github.com/user-attachments/assets/c5b69b50-759b-4ab7-a670-2e6ec6ae708f)

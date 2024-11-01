@@ -145,7 +145,7 @@ And Orderdate < GETDATE())
 - Gloves: Remains relatively stable, indicating that it continues to be a strong market, although it doesn't show significant growth.
 - Hats: Shows a huge incerease in sales in 2024, suggesting improved performance or market conditions.
 - Jacket: Shows a huge decrease in sales in 2024, with a difference of $120,950 due to the increase in price of the product.
-### Conclusion
+### iii. Conclusion
 The Total Sales data from 2023 to 2024 shows an unstable growth performance and instability in sales. The store should take closer examination of market conditions and customer behavior as well as re-evaluating their pricing strategies.
 
 ## 2. Total Sales by Region - Microsoft Excel
@@ -227,14 +227,14 @@ The sales fluctuate monthly in both year, which indicates unstable growth perfor
 
 ## 7. The Highest-selling product by the total sales - SQL
 ![Screenshot (77)](https://github.com/user-attachments/assets/e62943f5-2b77-420f-aebb-f8f5d07b7318)
-### Inferences:
-### 1. Performance of the Product;
+### i. Inferences
+- ### Performance of the Product;
 - As seen by the return of the SQL query, shoes generated the highest sales among all the products. This may indicate that there is a strong demand for foot wear.
-### 2. Intervention Strategies;
-- Cloudy wears should ensure that they keep popular shoe styles, sizes and colors in stock by closely monitoring inventory levels and reordering based on sales forecasts.
+### ii. Strategic Recommendations
+- Shade& Co. should ensure that they keep popular shoe styles, sizes and colors in stock by closely monitoring inventory levels and reordering based on sales forecasts.
 - They should also leverage pricing strategies that alignwith seasonal trends and offering discounts during high purchase periods.
-### Conclusion
-Shoes represent a high-demand category with growth potential. To amplify sales, a mix of targeted marketing and inventory management should be implemented . By doing so Cloudy Wears can maximize profitability from its top-selling product line.
+### iii. Conclusion
+Shoes represent a high-demand category with growth potential. To amplify sales, a mix of targeted marketing and inventory management should be implemented . By doing so Shade & Co can maximize profitability from its top-selling product line.
 
 ## 8. The Top 5 Customers by their purchase amount - SQL
 ![Screenshot (80)](https://github.com/user-attachments/assets/d1590985-69fe-40ae-abf3-86846da7484c)

@@ -122,6 +122,8 @@ And Orderdate < GETDATE())
 ```
 
 ### DAX Functions used
+- Measure - a Dax function used to perform dynamic calculations on data andused to callout values on a dashboard.
+
 
 
 ## Data Visualization Analysis and Inferences
@@ -173,7 +175,7 @@ The Column bar charts illustrate a clear drop in revenue for 2024 compared to 20
 - Shade & Co should create campaigns that coonect and align with each regional interests and customer preferences which will boost the brand recognition and connection.
 - They can use region specific promotions to attract new customers and retain existing ones.
 
-### iv Conclusion
+### iii. Conclusion
 - Regional sales highlights opportunities for growth in underperformimg regions and importance of maintaing strong strategies in high-performing regions. By creating promotion campaings, the store can increase its sales.
 
 ## 3. The number of Sales transactions in each region - SQL
@@ -259,12 +261,20 @@ Understanding the top 5 customers by purchase amount is crucial for building loy
 ![Screenshot (83)](https://github.com/user-attachments/assets/b35dca5d-f15d-4a12-af17-21307d026cff)
 - There was no sales for all the products sold by Shade & Co in the last quarter because the timeframe of the data collected was from 31st January, 2023 to 31st August, 2024. Hence the return of 
 
+## DASHBOARDS
+## Sales Analysis Dashboard for Years 2023 and 2024
 ![Screenshot (115)](https://github.com/user-attachments/assets/e72c3b41-6114-4c76-a17a-e26af17944eb)
+## Filtered Sales Analysis Dashboard for Shoes
 ![Screenshot (117)](https://github.com/user-attachments/assets/12b94ffb-1084-415e-b228-fb4990b8f275)
+## Filtered Sales Analysis Dashboard for Shirts
 ![Screenshot (118)](https://github.com/user-attachments/assets/0679a43a-c6e9-48e4-aeb9-5943c44aa918)
+## Filtered Sales Analysis Dashboard for Hat
 ![Screenshot (119)](https://github.com/user-attachments/assets/c55927c8-a211-4168-8421-2f12b8ad2bf7)
+## Filtered Sales Analysis Dashboard for Gloves
 ![Screenshot (120)](https://github.com/user-attachments/assets/0d54225f-9f20-4854-b665-882514e0ddf8)
+## Filtered Sales Analysis Dashboard for Jackets
 ![Screenshot (121)](https://github.com/user-attachments/assets/8a945350-6773-4913-ac29-76a3dbcd49da)
+## Filtered Sales Analysis Dashboard for Socks
 ![Screenshot (123)](https://github.com/user-attachments/assets/8d3d837d-e785-48ab-9646-16cd0e9406b2)
 
 

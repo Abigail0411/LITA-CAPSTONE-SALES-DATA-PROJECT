@@ -183,7 +183,7 @@ The Column bar charts illustrate a clear drop in revenue for 2024 compared to 20
 ### ii. Strategic Recomendations
 - To boost sales transactions in all the regions, Shade & Co can consider implementing the following strategies;
   * They can design promotions such as discounts on products based on the purchasing power of each region's customers.
-  * They canalso offer preffered payment methods basede on regional preferences, e.g a customer paying for the product bought in installments.
+  * They can  also offer preffered payment methods basede on regional preferences, e.g a customer paying for the product bought in installments.
   * They can also make their prices more competitive.
  ### iv. Conclusion
  A focus on the sales transactions by each region will provide Shade & Co. with insights that would help boost their sales. By implementing the strategve recomendations above, Shade & Co. can improve customer satisfaction and increase the frequency of transaction as well as increasing the overall revenue.
@@ -193,8 +193,8 @@ The Column bar charts illustrate a clear drop in revenue for 2024 compared to 20
 ![Screenshot (81)](https://github.com/user-attachments/assets/42d5ed87-da78-41e9-bd7f-31853dad25d0)
 ### Inferences:
 ### 1. Overall Regional performance;
-- South shows the highest percentage of total sales with 44.16% which might indicate strong market penetration or rffective sale strtedies in the region.
-- West region Contributed the least total sales with 14.29%. This suggests potential challenges and may be due to low brand awareness or ineffective marketing.
+- South shows the highest percentage of total sales with 44.16% which might indicate strong market penetration or effective sales strategies in the region.
+- West region contributed the least total sales with 14.29%. This suggests potential challenges and may be due to low brand awareness or ineffective marketing.
 ### 2. Strategic Intervention;
 - Cloudy Wears should continue investing in the South region with 44.16% sales rate to increase advertising and improve customer loyalty program to retain and grow the customers.
 - For low-performing regions, Cloudy Wears should conduct market research on the needs and preferences of the customers and increase brand awareness by allocating more resourses towards advertising and promotions,

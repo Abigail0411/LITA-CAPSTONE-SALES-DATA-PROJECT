@@ -4,7 +4,7 @@
 This project collects data and analyzes the sales performance of a retail store, Shade & Co. The goal is to uncover key insights such as, top-selling products, regional performance and monthly sales trend and come up with data-driven decisions to improve the business. The analysis also highlights key metrics such as Total Sales by each Product, Average Sales per Product and Total Sales by Region.
 
 ## Data Source
-The data used for this sales analysis was collected from the retail's store Point of Sales System(POS)
+The data used for this sales analysis was collected from the Shade & Co's store Point of Sales System(POS)
 - Data Collected:
 1. Order Id
 2. Custormer Id

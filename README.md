@@ -82,7 +82,7 @@ From Sales_Data
 Group by [Product]
 Order by 2 Desc
 ```
-- calculate monthly sales totals for the current year
+- Calculate monthly sales totals for the current year
 ```SQL
 Select Month(OrderDate) as Sales_Month, Sum(Revenue) as Monthly_Sales
 From Sales_Data
@@ -90,14 +90,14 @@ Where Year(OrderDate) = Year(Getdate())
 Group by Month(OrderDate)
 Order by 2 Desc
 ```
-- Top 5 Customers by Total Purchase Amount
+- Find the Top 5 Customers by Total Purchase Amount
 ```SQL
 Select Top 5 Customer_id, Sum(Revenue) as TotaL_Purchase_Amount
 From Sales_Data
 Group by Customer_id
 Order by 2 Desc
 ```
-- Percentage of Totalsales Contributed by each Region
+- Calculate the Percentage of Totalsales Contributed by each Region
 ```SQL
 Select Region, TotalSales,
 Format (TotalSales *100 / Sum(TotalSales)Over (),'0.00') + '%' As Percentage_Of_TotalSales 

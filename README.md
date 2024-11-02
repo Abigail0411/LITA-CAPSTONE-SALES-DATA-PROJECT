@@ -176,7 +176,7 @@ The Column bar charts illustrate a clear drop in revenue for 2024 compared to 20
 ### iv Conclusion
 - Regional sales highlights opportunities for growth in underperformimg regions and importance of maintaing strong strategies in high-performing regions. By creating promotion campaings, the store can increase its sales.
 
-## 4. The number of Sales transactions in each region - SQL
+## 3. The number of Sales transactions in each region - SQL
 ![Screenshot (76)](https://github.com/user-attachments/assets/c5b69b50-759b-4ab7-a670-2e6ec6ae708f)
 ### i. Inferences
 - #### The number of sales orders in all regions appears to be in the same range but with East region leading with 2,483 number of orders indicating that Shade & Co. has a strong market prence than in the other regions. It may also indicate that the customers in the East region have greater spending capacity.

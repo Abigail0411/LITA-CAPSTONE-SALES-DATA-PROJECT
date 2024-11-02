@@ -13,7 +13,7 @@ The data used for this sales analysis was collected from the Shade & Co's store 
 5. Order Date
 6. Quantity
 7. Unit Price
-- Timeframe: Data from 31st of January 2023 to 1st of September 2024
+- Timeframe: Data from 31st of January 2023 to 31st of August 2024
 
 ## Project Objective
 The goal is to uncover key insights such as, top-selling products, regional performance and monthly sales trend and come up with data-driven decisions to improve the business. 
@@ -225,7 +225,13 @@ The sales fluctuate monthly in both year, which indicates unstable growth perfor
   * August: Increase in sales in 2024 might have been due to improved marketing strategies.
   * September: Salesin this month in 2023 was more than the sales in Aug 2023 was was still in the low range.
   * October, November and December: There was a drastic decreases in sales in these months which might have been caused by increase in competition and discounting in other stores.
-
+### ii. Strategic Recomendations
+- For low sales month, the company should consider implementing promotional campaigns, offer discounts for early birds or loyalty incentives to the customers to boost sales.
+- For Peak months like February, the should plan inventory accordingly and increase stock for popular products to avoid shortages.
+- They should also consider adjusting prices of products based ondemand,competition and seasonal trends e.g offer sales bundle deals during high sales periods or raise prices for high demand items.
+### iii. Conclusion
+By implementing the recommendations above, Shade & Co. can maximize its monthly performance, enhance customer satisfaction and boost sales.
+  
 
 ## 7. The Highest-selling product by the total sales - SQL
 ![Screenshot (77)](https://github.com/user-attachments/assets/e62943f5-2b77-420f-aebb-f8f5d07b7318)
@@ -251,6 +257,7 @@ Understanding the top 5 customers by purchase amount is crucial for building loy
 
 ## 9. The products with no sales in the last quarter
 ![Screenshot (83)](https://github.com/user-attachments/assets/b35dca5d-f15d-4a12-af17-21307d026cff)
+- There was no sales for all the products sold by Shade & Co in the last quarter because the timeframe of the data collected was from 31st January, 2023 to 31st August, 2024. Hence the return of 
 
 ![Screenshot (115)](https://github.com/user-attachments/assets/e72c3b41-6114-4c76-a17a-e26af17944eb)
 ![Screenshot (117)](https://github.com/user-attachments/assets/12b94ffb-1084-415e-b228-fb4990b8f275)

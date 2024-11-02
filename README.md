@@ -185,11 +185,11 @@ The Column bar charts illustrate a clear drop in revenue for 2024 compared to 20
   * They can design promotions such as discounts on products based on the purchasing power of each region's customers.
   * They can  also offer preffered payment methods basede on regional preferences, e.g a customer paying for the product bought in installments.
   * They can also make their prices more competitive.
- ### iv. Conclusion
+ ### iii. Conclusion
  A focus on the sales transactions by each region will provide Shade & Co. with insights that would help boost their sales. By implementing the strategve recomendations above, Shade & Co. can improve customer satisfaction and increase the frequency of transaction as well as increasing the overall revenue.
  
 
-## 5. The percentage of total sales contributed by each region-SQL
+## 4. The percentage of total sales contributed by each region-SQL
 ![Screenshot (81)](https://github.com/user-attachments/assets/42d5ed87-da78-41e9-bd7f-31853dad25d0)
 ### i. Inferences:
 ### 1 Overall Regional performance;
@@ -201,7 +201,7 @@ The Column bar charts illustrate a clear drop in revenue for 2024 compared to 20
 ### 3, Conclusion
 By strenthening marketing and operational strategies in the region, the company can aim to boost overall revenue and expand market share.
 
-## 6. Monthly Sales - Microsoft Excel
+## 5. Monthly Sales - Microsoft Excel
 ## Pivot Table
 ![Screenshot (54)](https://github.com/user-attachments/assets/9563ae3f-4685-478a-b883-d3c6b5ce10c3)
 ## Filtered Column Chart for Year 2023
@@ -233,7 +233,7 @@ The sales fluctuate monthly in both year, which indicates unstable growth perfor
 By implementing the recommendations above, Shade & Co. can maximize its monthly performance, enhance customer satisfaction and boost sales.
   
 
-## 7. The Highest-selling product by the total sales - SQL
+## 6. The Highest-selling product by the total sales - SQL
 ![Screenshot (77)](https://github.com/user-attachments/assets/e62943f5-2b77-420f-aebb-f8f5d07b7318)
 ### i. Inferences
 - ### Performance of the Product;
@@ -244,7 +244,7 @@ By implementing the recommendations above, Shade & Co. can maximize its monthly 
 ### iii. Conclusion
 Shoes represent a high-demand category with growth potential. To amplify sales, a mix of targeted marketing and inventory management should be implemented . By doing so Shade & Co can maximize profitability from its top-selling product line.
 
-## 8. The Top 5 Customers by their purchase amount - SQL
+## 7. The Top 5 Customers by their purchase amount - SQL
 ![Screenshot (80)](https://github.com/user-attachments/assets/d1590985-69fe-40ae-abf3-86846da7484c)
 ### Inferences:
 ### 1. Overall Custormers Performance;
@@ -255,7 +255,7 @@ Cloudy wears should create exclusive rewards for each of the top customers e.g o
 Understanding the top 5 customers by purchase amount is crucial for building loyalty and monitoring thrir life time value. By implementing targeted rewards and dedicated communication,these customers can be developed into brand ambassadors, contributing to both revenue and long-term btand loyalty.
 
 
-## 9. The products with no sales in the last quarter
+## 8. The products with no sales in the last quarter
 ![Screenshot (83)](https://github.com/user-attachments/assets/b35dca5d-f15d-4a12-af17-21307d026cff)
 - There was no sales for all the products sold by Shade & Co in the last quarter because the timeframe of the data collected was from 31st January, 2023 to 31st August, 2024. Hence the return of 
 

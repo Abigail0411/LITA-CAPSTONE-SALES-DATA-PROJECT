@@ -50,7 +50,7 @@ Some formulars, functions, queries were used during the analysis, which are as f
 ![Screenshot (154)1](https://github.com/user-attachments/assets/a7b4f5ea-a396-4b37-b64a-44b442d0da9b)
 
 - SUMIF(range,criteria,[sum_range]): Used to calculate the Total Revenue by region
-![Screenshot (155)](https://github.com/user-attachments/assets/983b2631-0f64-47a1-9d87-7368d051149a)
+- ![Screenshot (155)](https://github.com/user-attachments/assets/983b2631-0f64-47a1-9d87-7368d051149a)
 
 
 ### SQL queries executed

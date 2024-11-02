@@ -1,7 +1,7 @@
 # LITA-CAPSTONE-SALES-DATA-PROJECT
 
 ## Project Overview
-This project collects data and analyses the sales performance of a retail store, Shade & Co. The goal is to uncover key insights such as, top-selling products, regional performance and monthly sales trend and come up with data-driven decisions to improve the business. The analysis also highlights key metrics such as Total Sales by each Product, Average Sales per Product and Total Sales by Region
+This project collects data and analyzes the sales performance of a retail store, Shade & Co. The goal is to uncover key insights such as, top-selling products, regional performance and monthly sales trend and come up with data-driven decisions to improve the business. The analysis also highlights key metrics such as Total Sales by each Product, Average Sales per Product and Total Sales by Region.
 
 ## Data Source
 The data used for this sales analysis was collected from the retail's store Point of Sales System(POS)
@@ -123,6 +123,7 @@ And Orderdate < GETDATE())
 
 ### DAX Functions used
 
+
 ## Data Visualization Analysis and Inferences
 ## 1. Total Sales by Product - Microsoft Excel
 ## Pivot Table
@@ -139,12 +140,12 @@ And Orderdate < GETDATE())
 - ### Overall Total Sales Trends;
   * There was a decrease of $109,570 in total sales from 2023 to 2024. This indicates a negative trend in revenue generation which was caused by ineffective pricing strategies. 
 - ### Analyzing Product Performance;
- * Shirt: Had the hightest sales in the year 2023 and had a decrease in sales in 2024 due to high in price as compared to the competitors.
-- Shoes: Increased in sales in 2024 due to the store introducing new shoe styles and collections which attracted both new and returning customers.
-- Socks: The column chart for the year 2024 shows a decline in sales due to bulk purchase patterns, customers often buy socks in bulk and replace them infrequently, which reduces repeat purchase.
-- Gloves: Remains relatively stable, indicating that it continues to be a strong market, although it doesn't show significant growth.
-- Hats: Shows a huge incerease in sales in 2024, suggesting improved performance or market conditions.
-- Jacket: Shows a huge decrease in sales in 2024, with a difference of $120,950 due to the increase in price of the product.
+  - Shirt: Had the hightest sales in the year 2023 and had a decrease in sales in 2024 due to high in price as compared to the competitors.
+  - Shoes: Increased in sales in 2024 due to the store introducing new shoe styles and collections which attracted both new and returning customers.
+  - Socks: The column chart for the year 2024 shows a decline in sales due to bulk purchase patterns, customers often buy socks in bulk and replace them infrequently, which reduces repeat purchase.
+  - Gloves: Remains relatively stable, indicating that it continues to be a strong market, although it doesn't show significant growth.
+  - Hats: Shows a huge incerease in sales in 2024, suggesting improved performance or market conditions.
+  - Jacket: Shows a huge decrease in sales in 2024, with a difference of $120,950 due to the increase in price of the product.
 ### iii. Conclusion
 The Total Sales data from 2023 to 2024 shows an unstable growth performance and instability in sales. The store should take closer examination of market conditions and customer behavior as well as re-evaluating their pricing strategies.
 

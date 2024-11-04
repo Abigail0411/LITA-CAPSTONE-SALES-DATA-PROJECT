@@ -70,19 +70,19 @@ Some formulars, functions, queries were used during the analysis, which are as f
 ### Excel formulars used
 - Total Sales = Quantity * Unit price
 - AVERAGEIF(range,criteria,[average_range]): Used to calculate the Average sales per Product
-- ```AVERAGEIF(C2:C9922,C2,H2:H9922)``` - To calculate the Average Sales for Shirt
-- ```AVERAGEIF(C2:C9922,C3,H2:H9922)``` - To calculate the Average Sales for Shoes
-- ```AVERAGEIF(C2:C9922,C4,H2:H9922)``` - To calculate the Average Sales for Hat
-- ```AVERAGEIF(C2:C9922,C5,H2:H9922)``` - To calculate the Average Sales for Socks
-- ```AVERAGEIF(C2:C9922,C6,H2:H9922)``` - To calculate the Average Sales for Jackets
-- ```AVERAGEIF(C2:C9922,C7,H2:H9922)``` - To calculate the Average Sales for Gloves
+  * ```AVERAGEIF(C2:C9922,C2,H2:H9922)``` - To calculate the Average Sales for Shirt
+  * ```AVERAGEIF(C2:C9922,C3,H2:H9922)``` - To calculate the Average Sales for Shoes
+  * ```AVERAGEIF(C2:C9922,C4,H2:H9922)``` - To calculate the Average Sales for Hat
+  * ```AVERAGEIF(C2:C9922,C5,H2:H9922)``` - To calculate the Average Sales for Socks
+  * ```AVERAGEIF(C2:C9922,C6,H2:H9922)``` - To calculate the Average Sales for Jackets
+  * ```AVERAGEIF(C2:C9922,C7,H2:H9922)``` - To calculate the Average Sales for Gloves
 ![Screenshot (154)1](https://github.com/user-attachments/assets/a7b4f5ea-a396-4b37-b64a-44b442d0da9b)
 
 - SUMIF(range,criteria,[sum_range]): Used to calculate the Total Revenue by region
-- ```SUMIF(D2:D9922,D2,H2:H9922)``` - To calculate the Total Revenue for North
-- ```SUMIF(D2:D9922,D3,H2:H9922)``` - To calculate the Total Revenue for South
-- ```SUMIF(D2:D9922,D4,H2:H9922)``` - To calculate the Total Revenue for East
-- ```SUMIF(D2:D9922,D5,H2:H9922)``` - To calculate the Total Revenue for West
+  * ```SUMIF(D2:D9922,D2,H2:H9922)``` - To calculate the Total Revenue for North
+  * ```SUMIF(D2:D9922,D3,H2:H9922)``` - To calculate the Total Revenue for South
+  * ```SUMIF(D2:D9922,D4,H2:H9922)``` - To calculate the Total Revenue for East
+  * ```SUMIF(D2:D9922,D5,H2:H9922)``` - To calculate the Total Revenue for West
 - ![Screenshot (155)](https://github.com/user-attachments/assets/983b2631-0f64-47a1-9d87-7368d051149a)
 
 

@@ -83,7 +83,8 @@ Some formulars, functions, queries were used during the analysis, which are as f
   * ```SUMIF(D2:D9922,D3,H2:H9922)``` - To calculate the Total Revenue for South
   * ```SUMIF(D2:D9922,D4,H2:H9922)``` - To calculate the Total Revenue for East
   * ```SUMIF(D2:D9922,D5,H2:H9922)``` - To calculate the Total Revenue for West
-- ![Screenshot (155)](https://github.com/user-attachments/assets/983b2631-0f64-47a1-9d87-7368d051149a)
+    
+  ![Screenshot (155)](https://github.com/user-attachments/assets/983b2631-0f64-47a1-9d87-7368d051149a)
 
 
 ### SQL queries executed

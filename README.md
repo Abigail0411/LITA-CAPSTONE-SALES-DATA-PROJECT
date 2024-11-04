@@ -1,5 +1,21 @@
 # LITA-CAPSTONE-SALES-DATA-PROJECT
 
+## Context
+
+[Project Overview](#project-overview)
+
+[Data Source](#data-source)
+
+[Project Objective](#project-objective)
+
+[Data Cleaning and Exploratory Data Analysis (EDA)](#data-Cleaning-and-exploratory-data-analysis-(eda))
+
+[Data Tools and Methods  Used](#tools-used)
+
+[Data Analysis](#data-analysis)
+
+[Data Visualization](#data-visualization)
+
 ## Project Overview
 This project collects data and analyzes the sales performance of a retail store, Shade & Co. The goal is to uncover key insights such as, top-selling products, regional performance and monthly sales trend and come up with data-driven decisions to improve the business. The analysis also highlights key metrics such as Total Sales by each Product, Average Sales per Product and Total Sales by Region.
 
@@ -120,7 +136,7 @@ And Orderdate < GETDATE())
 
 
 
-## Data Visualization Analysis and Inferences
+## Data Visualization
 ## 1. Total Sales by Product - Microsoft Excel
 ## Pivot Table
 ![Screenshot (134)](https://github.com/user-attachments/assets/11f233e6-d21e-4ac4-85f7-78d3b067a0af)
@@ -166,7 +182,7 @@ The total sales in the South and East region have decreased this year compared t
 - #### Sales Distribution by Region;
 The Column bar charts illustrate a clear drop in revenue for 2024 compared to 2023. This might indicate that overall market conditions may be affecting all the regions.
 ### ii. Strategic Recommendations
-- Shade & Co should create campaigns that coonect and align with each regional interests and customer preferences which will boost the brand recognition and connection.
+- Shade & Co should create campaigns that connects and aligns with each regional interests and customer preferences which will boost the brand recognition and connection.
 - They can use region specific promotions to attract new customers and retain existing ones.
 
 ### iii. Conclusion

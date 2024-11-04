@@ -79,10 +79,10 @@ Some formulars, functions, queries were used during the analysis, which are as f
 ![Screenshot (154)1](https://github.com/user-attachments/assets/a7b4f5ea-a396-4b37-b64a-44b442d0da9b)
 
 - SUMIF(range,criteria,[sum_range]): Used to calculate the Total Revenue by region
-- ```SUMIF(D2:D9922,D2,H2:H9922)``` - To calculate the Average Sales for Shirt
-- ```SUMIF(D2:D9922,D3,H2:H9922)```
-- ```SUMIF(D2:D9922,D4,H2:H9922)```
-- ```SUMIF(D2:D9922,D5,H2:H9922)```
+- ```SUMIF(D2:D9922,D2,H2:H9922)``` - To calculate the Total Revenue for North
+- ```SUMIF(D2:D9922,D3,H2:H9922)``` - To calculate the Total Revenue for South
+- ```SUMIF(D2:D9922,D4,H2:H9922)``` - To calculate the Total Revenue for East
+- ```SUMIF(D2:D9922,D5,H2:H9922)``` - To calculate the Total Revenue for West
 - ![Screenshot (155)](https://github.com/user-attachments/assets/983b2631-0f64-47a1-9d87-7368d051149a)
 
 
@@ -205,7 +205,7 @@ The Column bar charts illustrate a clear drop in revenue for 2024 compared to 20
 ### iii. Conclusion
 - Regional sales highlights opportunities for growth in underperformimg regions and importance of maintaing strong strategies in high-performing regions. By creating promotion campaings, the store can increase its sales.
 
-## 3. The number of Sales transactions in each region - SQL
+## 3. The number of Sales Transactions in each Region - SQL
 ![Screenshot (76)](https://github.com/user-attachments/assets/c5b69b50-759b-4ab7-a670-2e6ec6ae708f)
 ### i. Inferences
 - #### The number of sales orders in all regions appears to be in the same range but with East region leading with 2,483 number of orders indicating that Shade & Co. has a strong market prence than in the other regions. It may also indicate that the customers in the East region have greater spending capacity.
@@ -218,7 +218,7 @@ The Column bar charts illustrate a clear drop in revenue for 2024 compared to 20
  A focus on the sales transactions by each region will provide Shade & Co. with insights that would help boost their sales. By implementing the strategve recomendations above, Shade & Co. can improve customer satisfaction and increase the frequency of transaction as well as increasing the overall revenue.
  
 
-## 4. The percentage of total sales contributed by each region-SQL
+## 4. The percentage of Total Sales contributed by each Region-SQL
 ![Screenshot (81)](https://github.com/user-attachments/assets/42d5ed87-da78-41e9-bd7f-31853dad25d0)
 ### i. Inferences:
 ### 1 Overall Regional performance;
@@ -262,7 +262,7 @@ The sales fluctuate monthly in both year, which indicates unstable growth perfor
 By implementing the recommendations above, Shade & Co. can maximize its monthly performance, enhance customer satisfaction and boost sales.
   
 
-## 6. The Highest-selling product by the total sales - SQL
+## 6. The Highest-selling Product by the Total Sales - SQL
 ![Screenshot (77)](https://github.com/user-attachments/assets/e62943f5-2b77-420f-aebb-f8f5d07b7318)
 ### i. Inferences
 - ### Performance of the Product;
@@ -273,7 +273,7 @@ By implementing the recommendations above, Shade & Co. can maximize its monthly 
 ### iii. Conclusion
 Shoes represent a high-demand category with growth potential. To amplify sales, a mix of targeted marketing and inventory management should be implemented . By doing so Shade & Co can maximize profitability from its top-selling product line.
 
-## 7. The Top 5 Customers by their purchase amount - SQL
+## 7. The Top 5 Customers by their Purchase Amount - SQL
 ![Screenshot (80)](https://github.com/user-attachments/assets/d1590985-69fe-40ae-abf3-86846da7484c)
 ### Inferences:
 ### 1. Overall Custormers Performance;
@@ -288,7 +288,7 @@ Understanding the top 5 customers by purchase amount is crucial for building loy
 ![Screenshot (83)](https://github.com/user-attachments/assets/b35dca5d-f15d-4a12-af17-21307d026cff)
 - There was no sales for all the products sold by Shade & Co in the last quarter because the timeframe of the data collected was from 31st January, 2023 to 31st August, 2024. Hence the return of 
 
-## DASHBOARDS
+## POWER BI DASHBOARDS
 ## Sales Analysis Dashboard for Years 2023 and 2024
 ![Screenshot (115)](https://github.com/user-attachments/assets/e72c3b41-6114-4c76-a17a-e26af17944eb)
 ## Filtered Sales Analysis Dashboard for Shoes

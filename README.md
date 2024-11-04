@@ -1,4 +1,5 @@
 # LITA-CAPSTONE-SALES-DATA-PROJECT
+---
 
 ## Context
 
@@ -8,18 +9,20 @@
 
 [Project Objective](#project-objective)
 
-[Data Cleaning and Exploratory Data Analysis (EDA)](#data-Cleaning-and-exploratory-data-analysis-(EDA))
+[Data Cleaning and Exploratory Data Analysis](#data-Cleaning-and-exploratory-data-analysis)
 
-[Data Tools and Methods  Used](#data-tools-and-methods-used)
+[Data Tools and Methods Used](#data-tools-and-methods-used)
 
 [Data Analysis](#data-analysis)
 
 [Data Visualization](#data-visualization)
 
 ## Project Overview
+---
 This project collects data and analyzes the sales performance of a retail store, Shade & Co. The goal is to uncover key insights such as, top-selling products, regional performance and monthly sales trend and come up with data-driven decisions to improve the business. The analysis also highlights key metrics such as Total Sales by each Product, Average Sales per Product and Total Sales by Region.
 
 ## Data Source
+---
 The data used for this sales analysis was collected from the Shade & Co's store Point of Sales System(POS)
 - Data Collected:
 1. Order Id
@@ -32,9 +35,11 @@ The data used for this sales analysis was collected from the Shade & Co's store 
 - Timeframe: Data from 31st of January 2023 to 31st of August 2024
 
 ## Project Objective
+---
 The goal is to uncover key insights such as, top-selling products, regional performance and monthly sales trend and come up with data-driven decisions to improve the business. 
 
-## Data Cleaning and Exploratory Data Analysis (EDA)
+## Data Cleaning and Exploratory Data Analysis
+---
 - EDA alongside data cleaning was performed in this project to understand the dataset's structure, identify and handle missing values and address any data quality issues.
   * A missing colunm was added, which was the Revenue column which was found by multipling the Quantity by the Unit Price in order to know the Total Sales generated.
   * The data was checked for duplicates by highlighting the whole data in an excel sheet and clicking on the 'Remove Duplicates' in the Data tab interface.
@@ -47,10 +52,11 @@ The goal is to uncover key insights such as, top-selling products, regional perf
   * The Highest-selling product by the total sales
   * The Top 5 Customers by their purchase amount
   * Number of sales transactions in each region
-  *  The percentage of total sales contributed by each region
+  * The percentage of total sales contributed by each region
   * The products with no sales in the last quarter
     
 ## Data Tools and Methods Used
+---
 1. Microsoft Excel 
 - For Data Cleaning
 - For Analysis utilizing Pivot Tables to summarize and analyze the dataset making it easier to identify insights
@@ -59,6 +65,7 @@ The goal is to uncover key insights such as, top-selling products, regional perf
 3. Power BI used for converting data from different data sources to interactive dashbords and BI reports.
 
 ## Data Analysis
+---
 Some formulars, functions, queries were used during the analysis, which are as follows;
 ### Excel formulars used
 - Total Sales = Quantity * Unit price

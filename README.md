@@ -8,9 +8,9 @@
 
 [Project Objective](#project-objective)
 
-[Data Cleaning and Exploratory Data Analysis (EDA)](#data-Cleaning-and-exploratory-data-analysis-(eda))
+[Data Cleaning and Exploratory Data Analysis (EDA)](#data-Cleaning-and-exploratory-data-analysis-(EDA))
 
-[Data Tools and Methods  Used](#tools-used)
+[Data Tools and Methods  Used](#data-tools-and-methods-used)
 
 [Data Analysis](#data-analysis)
 

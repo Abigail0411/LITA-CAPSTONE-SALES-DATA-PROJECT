@@ -150,6 +150,10 @@ And Orderdate < GETDATE())
 
 ### DAX Functions used
 - Measure - a Dax function used to perform dynamic calculations on data andused to callout values on a dashboard.
+  * Calculate the Total Number of Custormers
+  ```dax
+  Customer Id Count = Count(SalesData[CustomrerId])
+  ```
 
 
 
